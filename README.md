@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Habibullo155
 - 👀 I’m interested in creating beautiful, functional code that solves real-world problems and improves user experience
 - 🌱 I’m currently learning Python and c#
-- 💞️ I’m looking to collaborate on  Python projects, open source software, and anything related to web development. Feel free to reach out if you have any interesting projects or ideas to work on together!
+-  I’m looking to collaborate on  Python projects, open source software, and anything related to web development. Feel free to reach out if you have any interesting projects or ideas to work on together!
 - 📫 How to reach me: zuhurovhabibullo@yahoo.com
 
 <!---
