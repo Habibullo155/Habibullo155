@@ -48,12 +48,3 @@ I am always open to interesting projects in the following areas:
 | **GitHub** | [Habibullo155](https://github.com/Habibullo155) |
 
 ---
-
-### 📊 GitHub Stats (Optional)
-
-You can add these cards to showcase your activity. They update automatically.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habibullo155&show_icons=true&theme=dark" alt="Habibullo's GitHub Stats" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullo155&layout=compact&theme=dark" alt="Top Languages" />
-</div>
