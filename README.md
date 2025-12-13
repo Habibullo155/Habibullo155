@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zhvIoGgI4tm0/giphy.gif" width="60"/>
+ <img src="https://custom-icon-badges.demolab.com/badge/Developer-blue?style=for-the-badge&logo=code&logoColor=white&animated=true" width="200"/>
   <h1>Hello World! I'm Habibullo.</h1>
   <p>💡 I build and scale applications with a strong focus on clean architecture and optimal user experience.</p>
 </div>
