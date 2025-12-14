@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+|I'm+Habib." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Habibullo." alt="Typing SVG" />
   <h1>Hello World! I'm Habibullo.</h1>
   <p>💡 I build and scale applications with a strong focus on clean architecture and optimal user experience.</p>
 </div>
